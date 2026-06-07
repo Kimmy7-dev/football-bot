@@ -2,9 +2,6 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 import requests
 
-# BOT_TOKEN = "8729069794:AAHW3mr3ZkD6uQP28YVSLVe7nX4KCxkclM8"
-# FOOTBALL_TOKEN = "270ab7f04c124a33828d3ecf79d65d8c"
-
 import os
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
